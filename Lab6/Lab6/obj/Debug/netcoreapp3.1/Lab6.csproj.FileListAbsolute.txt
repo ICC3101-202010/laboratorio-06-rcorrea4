@@ -1,0 +1,13 @@
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\corre\OneDrive\Escritorio\P.O.O. 20-01\laboratorio-06-rcorrea4\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
