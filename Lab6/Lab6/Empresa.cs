@@ -4,6 +4,7 @@ using System.Text;
 using System.IO;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
+using System.Linq;
 
 namespace Lab6
 {
@@ -40,7 +41,18 @@ namespace Lab6
             Empresa empresa1 = (Empresa)formatter.Deserialize(stream);
             Console.WriteLine("Empresa: "+empresa1.nameEmpresa);
             Console.WriteLine("Rut: "+empresa1.rutEmpresa);
-            Console.WriteLine("Division: "+empresa1.divisiones[0].NameDivision);
+            Console.WriteLine("Divisiones Empresa y Personal division");
+            for (int i = 0; i < empresa1.divisiones.Count(); i++)
+            {
+                Console.WriteLine("Division: " + empresa1.divisiones[i].NameDivision);
+                Console.WriteLine("Encargado Division: "+empresa1.divisiones[i].EncargadoDivision.Name);
+                Console.WriteLine("Personal");
+                for (int j=0; j < empresa1.divisiones[i].Personal.Count(); j++)
+                {
+                    Console.WriteLine(empresa1.divisiones[i].Personal[j].Name +" --- "+empresa1.divisiones[i].Personal[j].Position);
+                }
+            }
+    
             stream.Close();
         }
     }

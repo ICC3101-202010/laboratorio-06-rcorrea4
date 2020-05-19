@@ -39,7 +39,18 @@ namespace Lab6
                     string rutE = Console.ReadLine();
                     Empresa empresa1 = new Empresa(nameE, rutE);
                     Division division = new Division("division");
+                    Persona persona1 = new Persona("Juan","Perez","12345","Jefe");
+                    division.Personal.Add(persona1);
                     empresa1.Divisiones.Add(division);
+                    Departamento departamento = new Departamento("departamento de transito" );
+                    Persona persona2 = new Persona("John", "Travolta","1234", "Asesor financiero");
+                    Persona persona3 = new Persona("a", "b", "1234", "Asesor financiero");
+                    division.EncargadoDivision = persona1;
+                    departamento.EncargadoDivision = persona2;
+                    
+                    departamento.Personal.Add(persona3);
+                    departamento.Personal.Add(persona2);
+                    empresa1.Divisiones.Add(departamento);
                     empresa1.serializarEmpresa();
                 }
                 else if(opt !="1"&&opt!="2")
